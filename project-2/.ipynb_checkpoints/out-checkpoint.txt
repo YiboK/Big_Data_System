@@ -1,0 +1,3 @@
+Hit Rate: 0.6581632653061225
+p50 Response Time in Milliseconds: 0.7468461990356445
+p99 Response Time in Milliseconds: 1.080327033996582
