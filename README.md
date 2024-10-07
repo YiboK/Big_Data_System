@@ -13,6 +13,8 @@ This repository is dedicated to the course project for CS544 Intro to Big Data S
 
 This project will integrate these technologies, focusing on real-world applications of distributed data systems to solve complex problems at scale. All necessary files, scripts, and documentation can be found within this repository.
 
+This is the course [repo](https://github.com/cs544-wisc/s23)
+
 Here is a list of what topics each project covers:
 
 ### Project 1:
